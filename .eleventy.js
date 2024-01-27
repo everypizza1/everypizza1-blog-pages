@@ -1,4 +1,4 @@
-docsconst { DateTime } = require("luxon");
+const DateTime = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
 
 /**
