@@ -13,7 +13,6 @@ I am EveryPizza. You may know me by @everypizza1 or PizzaTheGreat.
 ### What are my hobbies?
 * Photography
 * Programming
-* Retro gaming
-* Raspberry Pi projects
-* Genshin Impact
+* Gaming
 * Video editing
+* YouTube
