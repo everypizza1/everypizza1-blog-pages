@@ -4,5 +4,5 @@ layout: layouts/home.njk
 
 
 # 👋 Hi!
-I am EveryPizza, or just Pizza. I am learning HTML, CSS and JS, C++, and Roblox Luau.
+I am EveryPizza! I am learning HTML, CSS, JS, C++ and GameMaker.
 ### Posts
