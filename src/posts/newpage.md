@@ -1,4 +1,4 @@
- ---
+---
 title: New blog page!
 description: The blog has moved!
 date: 2024-01-27
