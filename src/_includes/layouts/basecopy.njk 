@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  
+    {# This is the base template for the site–other templates extend this one #}
+    
+    <meta charset="utf-8" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Your new 11ty blog" />
+    <link rel="stylesheet" type="text/css" href="/public/wave.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    {% seo "" %}
+  </head>
+  <body>
+  <main>
+    {# Page or post content will appear here #}
+  
+    {{ content | safe }}
+
+      <footer class="footer">
+.ripple-background
+  .circle.xxlarge.shade1
+  .circle.xlarge.shade2
+  .circle.large.shade3
+  .circle.mediun.shade4
+  .circle.small.shade5
+        <div class="links">
+          <a href="/">Home</a>
+          <span class="divider">|</span>
+          <a href="/posts">Posts</a>
+          <span class="divider">|</span>
+          <a href="/about">About</a>
+          <span class="divider">|</span>
+          <a href="">Dark</a>
+        </div>
+        <a target = "blank" href="https://github.com/everypizza1"><i class="fab fa-github-square"></i></a>
+
+      </footer>
+    
+  </main>
+   
+  </body>
+</html>
